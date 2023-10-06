@@ -1,5 +1,6 @@
 # ignore the insolved folder
 unsolved/
+out/
 
 _00000_test.txt
 try1.java
