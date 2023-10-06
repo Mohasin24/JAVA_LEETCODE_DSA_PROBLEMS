@@ -1,7 +1,10 @@
-# ignore the insolved folder
+# ignore the folder's
 unsolved/
 out/
 
-_00000_test.txt
+# ignore all .class files
+*.class
+
+# ignore try files
 try1.java
 
